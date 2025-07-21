@@ -1,4 +1,4 @@
-# GoExpert - Cotação do Dólar - Desagio Client_Server-API
+# GoExpert - Cotação do Dólar - Desafio Client_Server-API
 
 Neste desafio vamos aplicar o que aprendemos sobre webserver http, contextos,
 banco de dados e manipulação de arquivos com Go.
